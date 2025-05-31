@@ -16,7 +16,7 @@ A real-time weather forecast app using the **OpenWeatherMap API**. Based on the 
 - Friendly error handling for invalid cities
 
 **📽️ Demo Video:**  
-[Click here to watch](https://drive.google.com/file/d/1MA-WOSABHIqZgonUWQgzc9r_ZiNRBK0r/view?usp=drive_link)
+[Click here to watch](https://drive.google.com/file/d/1mr8JGn6F0g_5d-Gh2I6CGHzF1UVqXE3D/view?usp=drive_link)
 
 ---
 
@@ -31,7 +31,7 @@ A fun interactive Rock-Paper-Scissors game where you play against the computer!
 - Random computer moves
 
 - **📽️ Demo Video:**  
-[Click here to watch](https://drive.google.com/file/d/VIDEO_ID/view?usp=sharing)
+[Click here to watch](https://drive.google.com/file/d/12uYn-iHygigGA59GtQ08Su5nJTjCpuyU/view?usp=drive_link)
 
 ---
 
@@ -43,7 +43,7 @@ A basic arithmetic calculator that handles:
 - Handles invalid expressions gracefully
 
 - **📽️ Demo Video:**  
-[Click here to watch](https://drive.google.com/file/d/VIDEO_ID/view?usp=sharing)
+[Click here to watch](https://drive.google.com/file/d/1QAByrXpDFssyhiHAZ1YFFUPm2DCgQbX8/view?usp=drive_link)
 
 ---
 
@@ -58,7 +58,7 @@ Converts one currency to another using **ExchangeRate-API**.
 - Calculate result based on input amount
 
 **📽️ Demo Video:**  
-[Click here to watch](https://drive.google.com/file/d/VIDEO_ID/view?usp=sharing)
+[Click here to watch](https://drive.google.com/file/d/1firX9LJrGWAX4CU1aVQHsINLmN-qCopV/view?usp=drive_link)
 ---
 
 ## 🛠️ Technologies Used
