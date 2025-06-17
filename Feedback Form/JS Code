@@ -1,0 +1,32 @@
+
+function validateForm() {
+    let nameInput = document.getElementById("exampleInputName1");
+    let emailInput = document.getElementById("exampleInputEmail1");
+    let message = document.getElementById("message");
+
+    let nameValue = nameInput.value.trim();
+    let emailValue = emailInput.value.trim();
+
+    // Reset the alert
+    message.classList.add("d-none");
+    message.classList.remove("alert-danger", "alert-success");
+    message.innerText = "";
+
+    // Name validation
+    if (/\d/.test(nameValue) || nameValue === "") {
+        message.innerText = "❌ Invalid name: should not be empty or contain numbers.";
+        message.classList.remove("d-none");
+        message.classList.add("alert", "alert-danger");
+        return false;
+    }
+
+    // Email validation
+    if (emailValue === "") {
+        message.innerText = "❌ Invalid email: should not be empty.";
+        message.classList.remove("d-none");
+        message.classList.add("alert", "alert-danger");
+        return false;
+    }
+
+    return true;
+}
